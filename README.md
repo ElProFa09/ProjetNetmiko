@@ -1,5 +1,9 @@
 # Projet DevNet - Automatisation avec Netmiko
 
+> **Auteur :** NGOIE SHABANA GLODIE
+> **Contexte académique :** TP DevNet / Master 2 - DevOps et sécurité
+> **Statut du projet :** Production / Validé ✅
+
 Ce projet réalise les tâches d'automatisation réseau sur une topologie Cisco (R1, R2, SW1, SW2) via le protocole Telnet (adapté pour les environnements de simulation CML).
 
 ## Objectifs du TP

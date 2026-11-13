@@ -1,6 +1,6 @@
 # Projet DevNet - Automatisation avec Netmiko
 
-> **Auteur :** NGOIE SHABANA GLODIE
+> **Auteur :** NGOIE SHABANA GLODIE & KYUNGU KONGOLO PATIENCE
 > **Contexte académique :** TP DevNet / Master 2 - DevOps et sécurité
 > **Statut du projet :** Production / Validé ✅
 
